@@ -1,0 +1,68 @@
+  
+{   
+    "projectNames":[
+       "project-name-1",
+       "project-name-2",
+       "project-name-3",
+       "project-name-4",
+       "project-name-5"
+    ],
+
+     "projectDescriptions":[
+         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus incidunt provident officiis eligendi excepturi dolor perspiciatis amet, cupiditate soluta similique culpa possimus magnam molestias natus mollitia, repellat aliquid, quisquam! Numquam. Lorem ipsum dolor sit amet",
+         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus incidunt provident officiis eligendi excepturi dolor perspiciatis amet, cupiditate soluta similique culpa possimus magnam molestias natus mollitia, repellat aliquid, quisquam! Numquam. Lorem ipsum dolor sit amet",
+         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus incidunt provident officiis eligendi excepturi dolor perspiciatis amet, cupiditate soluta similique culpa possimus magnam molestias natus mollitia, repellat aliquid, quisquam! Numquam. Lorem ipsum dolor sit amet",
+         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus incidunt provident officiis eligendi excepturi dolor perspiciatis amet, cupiditate soluta similique culpa possimus magnam molestias natus mollitia, repellat aliquid, quisquam! Numquam. Lorem ipsum dolor sit amet",
+         "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Necessitatibus incidunt provident officiis eligendi excepturi dolor perspiciatis amet, cupiditate soluta similique culpa possimus magnam molestias natus mollitia, repellat aliquid, quisquam! Numquam. Lorem ipsum dolor sit amet"
+     ],
+
+     "projectMainPicture":[
+        "project-one-main-picture-1.jpg",
+        "project-two-main-picture-2.jpg",
+        "project-three-main-picture-3.jpg",
+        "project-four-main-picture-4.jpg",
+        "project-five-main-picture-5.jpg"
+     ],
+
+     "projectOnePictures":[
+        "project-one-main-picture-1.jpg",
+        "project-one-carousel1.jpg",
+        "project-one-carousel2.jpg",
+        "project-one-carousel3.jpg",
+        "project-one-big-piture-1.jpg",
+        "project-one-big-piture-2.jpg"
+     ],
+     "projectTwoPictures":[
+        "project-two-main-picture-1.jpg",
+        "project-two-carousel1.jpg",
+        "project-two-carousel2.jpg",
+        "project-two-carousel3.jpg",
+        "project-two-big-piture-1.jpg",
+        "project-two-big-piture-2.jpg"
+     ],
+     "projectThreePictures":[
+        "project-three-main-picture-1.jpg",
+        "project-three-carousel1.jpg",
+        "project-three-carousel2.jpg",
+        "project-three-carousel3.jpg",
+        "project-three-big-piture-1.jpg",
+        "project-three-big-piture-2.jpg"
+     ],
+     "projectFourPictures":[
+        "project-four-main-picture-1.jpg",
+        "project-four-carousel1.jpg",
+        "project-four-carousel2.jpg",
+        "project-four-carousel3.jpg",
+        "project-four-big-piture-1.jpg",
+        "project-four-big-piture-2.jpg"
+     ],
+     "projectFivePictures":[
+        "project-five-main-picture-1.jpg",
+        "project-five-carousel1.jpg",
+        "project-five-carousel2.jpg",
+        "project-five-carousel3.jpg",
+        "project-five-big-piture-1.jpg",
+        "project-five-big-piture-2.jpg"
+     ]
+     
+ }
